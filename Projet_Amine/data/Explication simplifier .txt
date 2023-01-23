@@ -1,0 +1,21 @@
+"name" : "submission_date" "description" : "Date of counts".
+
+"name" : "state", "description" : "Jurisdiction".
+
+"name" : "tot_cases", "description" : "Total number of cases".
+
+"name" : "conf_cases", "description" : "Total confirmed cases".
+
+"name" : "prob_cases", "description" : "Total probable cases".
+
+"name" : "new_case","description" : "Number of new cases".
+
+"name" : "pnew_case","description" : "Number of new probable cases",
+
+"name" : "tot_death",  "description" : "Total number of deaths".
+
+"name" : "conf_death", "description" : "Total confirmed deaths".
+
+"name" : "new_death","description" : "Number of new deaths".
+
+"name" : "created_at","description" : "Date and time record was created".

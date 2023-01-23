@@ -1,0 +1,1201 @@
+{
+  "id" : "9mfq-cb36",
+  "name" : "United States COVID-19 Cases and Deaths by State over Time - ARCHIVED",
+  "assetType" : "dataset",
+  "attribution" : "CDC COVID-19 Response",
+  "attributionLink" : "https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html",
+  "averageRating" : 0,
+  "category" : "Case Surveillance",
+  "createdAt" : 1591881896,
+  "description" : "Beginning on <b>October 20, 2022</b>, the CDC retrieves aggregate case and death data from jurisdictional and state partners on a weekly basis rather than daily. This dataset contains archived aggregate daily counts of COVID-19 cases and death by state. Although these data will continue to be publicly available, as of 10/20/2022, this dataset will no longer be updated. \n\nA new dataset which aggregates <b>weekly</b> COVID-19 cases and deaths by State can be found at: <a href=\"https://data.cdc.gov/dataset/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp\">Weekly United States COVID-19 Cases and Deaths by State | Data | Centers for Disease Control and Prevention (cdc.gov)</a>. This new dataset is compiled using different methodology; please see the corresponding description on the new dataset for additional details.\n\n<b>Deaths</b>\nSeparately, CDC also regularly reports provisional death certificate data from the National Vital Statistics System (NVSS) on data.cdc.gov. Details are described on the <a href=\"https://www.cdc.gov/nchs/nvss/covid-19.htm\">NCHS website</a>. Reporting the number of deaths by using death certificates ultimately provides more complete information but is a longer process; therefore, these numbers will be less than the death counts on the COVID-19 website.\n\n<b>Accuracy of Data</b>\nCDC tracks COVID-19 illnesses, hospitalizations, and deaths to track trends, detect outbreaks, and monitor whether public health measures are working. However, counting exact numbers of COVID-19 cases is not possible due to a variety of reasons. For instance, COVID-19 can cause mild illness which may not be reported, symptoms might not appear immediately, there may be delays in reporting and testing, not everyone who is infected hay get tested or seek medical care, and there may be differences in how completely states and territories report their cases.\n\nCOVID-19 is one of about <a href=\"https://wwwn.cdc.gov/nndss/\">120 diseases or conditions</a> health departments voluntarily report to CDC. State, local, and territorial public health departments verify and report cases to CDC. When there are differences between numbers of cases reported by CDC versus by health departments, data reported by health departments should be considered the most up to date. Health departments may update case data over time when they receive more complete and accurate information. The number of new cases reported each day fluctuates. There is generally less reporting on the weekends and holidays.\n\nCDC reports death data on other sections of the website: <a href=\"https://covid.cdc.gov/covid-data-tracker/#datatracker-home\">CDC COVID Data Tracker: Home, CDC COVID Data Tracker: Cases, Deaths, and Testing</a>, and <a href=\"https://www.cdc.gov/nchs/nvss/covid-19.htm\">NCHS Provisional Death Counts</a>. Information presented on the COVID Data Tracker pages is based on the same source (total case counts) as this dataset; however, NCHS Death Counts are based on death certificates that use information reported by physicians, medical examiners, or coroners in the cause-of-death section of each certificate. Data from each of these pages are considered provisional (not complete and pending verification) and are therefore subject to change. Counts are continually revised as more records are received and processed. Because not all jurisdictions report counts daily, counts may increase at different intervals.\n\n<b>Confirmed & Probable Counts</b>\nAs of April 14, 2020, CDC case counts and death counts include both confirmed and probable cases and deaths. This change was made to reflect an <a href=\"https://cdn.ymaws.com/www.cste.org/resource/resmgr/2020ps/Interim-20-ID-01_COVID-19.pdf\">interim COVID-19 position statement</a> issued by the Council of State and Territorial Epidemiologists on April 5, 2020. The position statement included a case definition and made COVID-19 a nationally notifiable disease. Nationally notifiable disease cases are voluntarily reported to CDC by jurisdictions. Confirmed and probable case definition criteria are described here:\nhttps://ndc.services.cdc.gov/case-definitions/coronavirus-disease-2019-2021/. Not all jurisdictions report probable cases and deaths to CDC. When not available to CDC, it is noted as N/A. Please note that jurisdictions may reclassify probable cases at any time to confirmed cases (if confirmatory laboratory evidence is obtained). They may also  withdraw probable case reports entirely if further public health investigation determines that the individual most likely did not have COVID-19. As a result, probable case counts can fluctuate substantially. A jurisdiction might even report a negative number of probable cases on a given day, if more probable cases were disproven than were initially reported on that day.\n\n<b>Number of Jurisdictions Reporting</b>\nThere are currently 60 public health jurisdictions reporting cases of COVID-19. This includes the 50 states, the District of Columbia, New York City, the U.S. territories of American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands as well as three independent countries in compacts of free association with the United States, Federated States of Micronesia, Republic of the Marshall Islands, and Republic of Palau. New York State’s reported case and death counts do not include New York City’s counts as they separately report nationally notifiable conditions to CDC.\n\nCDC COVID-19 data are available to the public as summary or aggregate count files, including total counts of cases and deaths, available by state and by county. These and other data on COVID-19 are available from multiple public locations, such as:\n\nhttps://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html\n\nhttps://www.cdc.gov/covid-data-tracker/index.html\n\nhttps://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html\n\nhttps://www.cdc.gov/coronavirus/2019-ncov/php/open-america/surveillance-data-analytics.html\n\nAdditional COVID-19 public use datasets, include line-level (patient-level) data, are available at: <a href =\"https://data.cdc.gov/browse?tags=covid-19\">Search & Browse covid-19 | Page 1 of 13 | Data | Centers for Disease Control and Prevention (cdc.gov).</a>",
+  "displayType" : "table",
+  "downloadCount" : 8399233,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "licenseId" : "USGOV_WORKS",
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 34681789,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1594834196,
+  "publicationGroup" : 17218067,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1666198065,
+  "rowsUpdatedBy" : "49hd-px62",
+  "tableId" : 17337463,
+  "totalTimesRated" : 0,
+  "viewCount" : 3905906,
+  "viewLastModified" : 1666318003,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1595257612,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 2455779,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1595257612,
+    "workflowId" : 2100,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1595257612,
+      "failureCount" : 0,
+      "startedAt" : 1595257612,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "aa26-iwd8",
+      "displayName" : "Brian Lee"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 481357041,
+    "name" : "submission_date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date of counts",
+    "fieldName" : "submission_date",
+    "position" : 1,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 105526416,
+    "cachedContents" : {
+      "non_null" : "60060",
+      "largest" : "2022-10-18T00:00:00.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2021-05-04T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2022-03-12T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2022-05-13T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-12-15T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2020-07-10T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-09-11T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2020-04-19T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2020-08-11T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-11-11T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2020-11-08T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-10-15T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2022-05-11T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-01-28T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2022-09-09T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2020-05-30T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-03-08T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2022-05-15T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-04-27T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2021-06-02T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "2020-02-17T00:00:00.000",
+        "count" : "60"
+      } ],
+      "smallest" : "2020-01-22T00:00:00.000",
+      "count" : "60060",
+      "cardinality" : "1001"
+    },
+    "format" : {
+      "view" : "date"
+    }
+  }, {
+    "id" : 481357042,
+    "name" : "state",
+    "dataTypeName" : "text",
+    "description" : "Jurisdiction",
+    "fieldName" : "state",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 104716514,
+    "cachedContents" : {
+      "non_null" : "60060",
+      "largest" : "WY",
+      "null" : "0",
+      "top" : [ {
+        "item" : "OH",
+        "count" : "1001"
+      }, {
+        "item" : "NY",
+        "count" : "1001"
+      }, {
+        "item" : "WV",
+        "count" : "1001"
+      }, {
+        "item" : "AR",
+        "count" : "1001"
+      }, {
+        "item" : "CT",
+        "count" : "1001"
+      }, {
+        "item" : "LA",
+        "count" : "1001"
+      }, {
+        "item" : "WY",
+        "count" : "1001"
+      }, {
+        "item" : "MT",
+        "count" : "1001"
+      }, {
+        "item" : "FSM",
+        "count" : "1001"
+      }, {
+        "item" : "MI",
+        "count" : "1001"
+      }, {
+        "item" : "DE",
+        "count" : "1001"
+      }, {
+        "item" : "NH",
+        "count" : "1001"
+      }, {
+        "item" : "OR",
+        "count" : "1001"
+      }, {
+        "item" : "DC",
+        "count" : "1001"
+      }, {
+        "item" : "WI",
+        "count" : "1001"
+      }, {
+        "item" : "RI",
+        "count" : "1001"
+      }, {
+        "item" : "TN",
+        "count" : "1001"
+      }, {
+        "item" : "WA",
+        "count" : "1001"
+      }, {
+        "item" : "MA",
+        "count" : "1001"
+      }, {
+        "item" : "NV",
+        "count" : "1001"
+      } ],
+      "smallest" : "AK",
+      "count" : "60060",
+      "cardinality" : "60"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357043,
+    "name" : "tot_cases",
+    "dataTypeName" : "number",
+    "description" : "Total number of cases",
+    "fieldName" : "tot_cases",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526419,
+    "cachedContents" : {
+      "non_null" : "60060",
+      "largest" : "11309237",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0",
+        "count" : "4117"
+      }, {
+        "item" : "4",
+        "count" : "578"
+      }, {
+        "item" : "1",
+        "count" : "280"
+      }, {
+        "item" : "3",
+        "count" : "195"
+      }, {
+        "item" : "2",
+        "count" : "161"
+      }, {
+        "item" : "10",
+        "count" : "118"
+      }, {
+        "item" : "5",
+        "count" : "100"
+      }, {
+        "item" : "7",
+        "count" : "85"
+      }, {
+        "item" : "9",
+        "count" : "80"
+      }, {
+        "item" : "11",
+        "count" : "71"
+      }, {
+        "item" : "14",
+        "count" : "65"
+      }, {
+        "item" : "18",
+        "count" : "63"
+      }, {
+        "item" : "21",
+        "count" : "55"
+      }, {
+        "item" : "17",
+        "count" : "54"
+      }, {
+        "item" : "38",
+        "count" : "45"
+      }, {
+        "item" : "183",
+        "count" : "42"
+      }, {
+        "item" : "8",
+        "count" : "42"
+      }, {
+        "item" : "12",
+        "count" : "42"
+      }, {
+        "item" : "13",
+        "count" : "40"
+      }, {
+        "item" : "5308",
+        "count" : "39"
+      } ],
+      "smallest" : "0",
+      "count" : "60060",
+      "cardinality" : "43020"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357044,
+    "name" : "conf_cases",
+    "dataTypeName" : "number",
+    "description" : "Total confirmed cases",
+    "fieldName" : "conf_cases",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526410,
+    "cachedContents" : {
+      "non_null" : "34034",
+      "largest" : "10458792",
+      "null" : "26026",
+      "top" : [ {
+        "item" : "0.0",
+        "count" : "1044"
+      }, {
+        "item" : "4.0",
+        "count" : "471"
+      }, {
+        "item" : "1.0",
+        "count" : "79"
+      }, {
+        "item" : "9.0",
+        "count" : "67"
+      }, {
+        "item" : "14.0",
+        "count" : "53"
+      }, {
+        "item" : "5.0",
+        "count" : "52"
+      }, {
+        "item" : "11.0",
+        "count" : "49"
+      }, {
+        "item" : "7.0",
+        "count" : "46"
+      }, {
+        "item" : "3.0",
+        "count" : "46"
+      }, {
+        "item" : "21.0",
+        "count" : "44"
+      }, {
+        "item" : "17.0",
+        "count" : "43"
+      }, {
+        "item" : "38.0",
+        "count" : "41"
+      }, {
+        "item" : "183.0",
+        "count" : "40"
+      }, {
+        "item" : "13.0",
+        "count" : "35"
+      }, {
+        "item" : "18.0",
+        "count" : "33"
+      }, {
+        "item" : "8.0",
+        "count" : "29"
+      }, {
+        "item" : "30.0",
+        "count" : "24"
+      }, {
+        "item" : "31.0",
+        "count" : "22"
+      }, {
+        "item" : "13171.0",
+        "count" : "22"
+      }, {
+        "item" : "2.0",
+        "count" : "18"
+      } ],
+      "smallest" : "0.0",
+      "count" : "60060",
+      "cardinality" : "26174"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357045,
+    "name" : "prob_cases",
+    "dataTypeName" : "number",
+    "description" : "Total probable cases",
+    "fieldName" : "prob_cases",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526409,
+    "cachedContents" : {
+      "non_null" : "33962",
+      "largest" : "850445",
+      "null" : "26098",
+      "top" : [ {
+        "item" : "0",
+        "count" : "7491"
+      }, {
+        "item" : "1720",
+        "count" : "153"
+      }, {
+        "item" : "1",
+        "count" : "77"
+      }, {
+        "item" : "2",
+        "count" : "36"
+      }, {
+        "item" : "3",
+        "count" : "24"
+      }, {
+        "item" : "7",
+        "count" : "23"
+      }, {
+        "item" : "62126",
+        "count" : "21"
+      }, {
+        "item" : "22",
+        "count" : "20"
+      }, {
+        "item" : "5",
+        "count" : "18"
+      }, {
+        "item" : "9",
+        "count" : "17"
+      }, {
+        "item" : "11",
+        "count" : "17"
+      }, {
+        "item" : "6",
+        "count" : "16"
+      }, {
+        "item" : "15",
+        "count" : "16"
+      }, {
+        "item" : "70082",
+        "count" : "15"
+      }, {
+        "item" : "74231",
+        "count" : "15"
+      }, {
+        "item" : "8",
+        "count" : "15"
+      }, {
+        "item" : "70659",
+        "count" : "14"
+      }, {
+        "item" : "168016",
+        "count" : "14"
+      }, {
+        "item" : "601251",
+        "count" : "14"
+      }, {
+        "item" : "155785",
+        "count" : "14"
+      } ],
+      "smallest" : "0",
+      "count" : "60060",
+      "cardinality" : "19304"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357046,
+    "name" : "new_case",
+    "dataTypeName" : "number",
+    "description" : "Number of new cases",
+    "fieldName" : "new_case",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526420,
+    "cachedContents" : {
+      "non_null" : "60060",
+      "largest" : "319809.0",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0.0",
+        "count" : "14266"
+      }, {
+        "item" : "1.0",
+        "count" : "347"
+      }, {
+        "item" : "2.0",
+        "count" : "278"
+      }, {
+        "item" : "3.0",
+        "count" : "185"
+      }, {
+        "item" : "4.0",
+        "count" : "167"
+      }, {
+        "item" : "5.0",
+        "count" : "142"
+      }, {
+        "item" : "6.0",
+        "count" : "132"
+      }, {
+        "item" : "11.0",
+        "count" : "126"
+      }, {
+        "item" : "9.0",
+        "count" : "126"
+      }, {
+        "item" : "7.0",
+        "count" : "119"
+      }, {
+        "item" : "21.0",
+        "count" : "104"
+      }, {
+        "item" : "13.0",
+        "count" : "104"
+      }, {
+        "item" : "8.0",
+        "count" : "103"
+      }, {
+        "item" : "15.0",
+        "count" : "101"
+      }, {
+        "item" : "10.0",
+        "count" : "99"
+      }, {
+        "item" : "18.0",
+        "count" : "97"
+      }, {
+        "item" : "19.0",
+        "count" : "92"
+      }, {
+        "item" : "20.0",
+        "count" : "89"
+      }, {
+        "item" : "27.0",
+        "count" : "89"
+      }, {
+        "item" : "14.0",
+        "count" : "88"
+      } ],
+      "smallest" : "-10199.0",
+      "count" : "60060",
+      "cardinality" : "8125"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357047,
+    "name" : "pnew_case",
+    "dataTypeName" : "number",
+    "description" : "Number of new probable cases",
+    "fieldName" : "pnew_case",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526407,
+    "cachedContents" : {
+      "non_null" : "56534",
+      "largest" : "171617",
+      "null" : "3526",
+      "top" : [ {
+        "item" : "0",
+        "count" : "27762"
+      }, {
+        "item" : "1",
+        "count" : "530"
+      }, {
+        "item" : "2",
+        "count" : "409"
+      }, {
+        "item" : "3",
+        "count" : "323"
+      }, {
+        "item" : "4",
+        "count" : "279"
+      }, {
+        "item" : "5",
+        "count" : "245"
+      }, {
+        "item" : "7",
+        "count" : "197"
+      }, {
+        "item" : "8",
+        "count" : "191"
+      }, {
+        "item" : "6",
+        "count" : "185"
+      }, {
+        "item" : "10",
+        "count" : "169"
+      }, {
+        "item" : "17",
+        "count" : "154"
+      }, {
+        "item" : "13",
+        "count" : "153"
+      }, {
+        "item" : "12",
+        "count" : "151"
+      }, {
+        "item" : "11",
+        "count" : "151"
+      }, {
+        "item" : "19",
+        "count" : "146"
+      }, {
+        "item" : "16",
+        "count" : "146"
+      }, {
+        "item" : "14",
+        "count" : "139"
+      }, {
+        "item" : "20",
+        "count" : "136"
+      }, {
+        "item" : "18",
+        "count" : "136"
+      }, {
+        "item" : "9",
+        "count" : "136"
+      } ],
+      "smallest" : "-171804",
+      "count" : "60060",
+      "cardinality" : "3269"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357048,
+    "name" : "tot_death",
+    "dataTypeName" : "number",
+    "description" : "Total number of deaths",
+    "fieldName" : "tot_death",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526408,
+    "cachedContents" : {
+      "non_null" : "60060",
+      "largest" : "95604",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0",
+        "count" : "6573"
+      }, {
+        "item" : "2",
+        "count" : "643"
+      }, {
+        "item" : "6",
+        "count" : "378"
+      }, {
+        "item" : "1",
+        "count" : "217"
+      }, {
+        "item" : "5",
+        "count" : "192"
+      }, {
+        "item" : "34",
+        "count" : "161"
+      }, {
+        "item" : "17",
+        "count" : "155"
+      }, {
+        "item" : "3",
+        "count" : "134"
+      }, {
+        "item" : "57",
+        "count" : "117"
+      }, {
+        "item" : "23",
+        "count" : "107"
+      }, {
+        "item" : "31",
+        "count" : "94"
+      }, {
+        "item" : "27",
+        "count" : "83"
+      }, {
+        "item" : "9",
+        "count" : "79"
+      }, {
+        "item" : "4",
+        "count" : "75"
+      }, {
+        "item" : "7",
+        "count" : "75"
+      }, {
+        "item" : "40",
+        "count" : "75"
+      }, {
+        "item" : "33",
+        "count" : "73"
+      }, {
+        "item" : "25",
+        "count" : "73"
+      }, {
+        "item" : "16",
+        "count" : "71"
+      }, {
+        "item" : "21",
+        "count" : "70"
+      } ],
+      "smallest" : "0",
+      "count" : "60060",
+      "cardinality" : "19165"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357049,
+    "name" : "conf_death",
+    "dataTypeName" : "number",
+    "description" : "Total number of confirmed deaths",
+    "fieldName" : "conf_death",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526415,
+    "cachedContents" : {
+      "non_null" : "33273",
+      "largest" : "71408.0",
+      "null" : "26787",
+      "top" : [ {
+        "item" : "0.0",
+        "count" : "2345"
+      }, {
+        "item" : "2.0",
+        "count" : "590"
+      }, {
+        "item" : "34.0",
+        "count" : "94"
+      }, {
+        "item" : "17.0",
+        "count" : "78"
+      }, {
+        "item" : "3.0",
+        "count" : "77"
+      }, {
+        "item" : "40.0",
+        "count" : "61"
+      }, {
+        "item" : "1.0",
+        "count" : "54"
+      }, {
+        "item" : "16.0",
+        "count" : "41"
+      }, {
+        "item" : "7.0",
+        "count" : "38"
+      }, {
+        "item" : "21.0",
+        "count" : "33"
+      }, {
+        "item" : "20.0",
+        "count" : "33"
+      }, {
+        "item" : "23.0",
+        "count" : "32"
+      }, {
+        "item" : "35.0",
+        "count" : "31"
+      }, {
+        "item" : "37.0",
+        "count" : "30"
+      }, {
+        "item" : "46.0",
+        "count" : "30"
+      }, {
+        "item" : "31.0",
+        "count" : "28"
+      }, {
+        "item" : "30.0",
+        "count" : "27"
+      }, {
+        "item" : "33.0",
+        "count" : "26"
+      }, {
+        "item" : "18.0",
+        "count" : "25"
+      }, {
+        "item" : "1820.0",
+        "count" : "23"
+      } ],
+      "smallest" : "0.0",
+      "count" : "60060",
+      "cardinality" : "14171"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357050,
+    "name" : "prob_death",
+    "dataTypeName" : "number",
+    "description" : "Total number of probable deaths",
+    "fieldName" : "prob_death",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526417,
+    "cachedContents" : {
+      "non_null" : "33273",
+      "largest" : "7889",
+      "null" : "26787",
+      "top" : [ {
+        "item" : "0",
+        "count" : "8622"
+      }, {
+        "item" : "1",
+        "count" : "358"
+      }, {
+        "item" : "378",
+        "count" : "242"
+      }, {
+        "item" : "15",
+        "count" : "172"
+      }, {
+        "item" : "2",
+        "count" : "146"
+      }, {
+        "item" : "7",
+        "count" : "92"
+      }, {
+        "item" : "8",
+        "count" : "82"
+      }, {
+        "item" : "214",
+        "count" : "80"
+      }, {
+        "item" : "267",
+        "count" : "76"
+      }, {
+        "item" : "20",
+        "count" : "75"
+      }, {
+        "item" : "217",
+        "count" : "72"
+      }, {
+        "item" : "23",
+        "count" : "70"
+      }, {
+        "item" : "269",
+        "count" : "66"
+      }, {
+        "item" : "310",
+        "count" : "64"
+      }, {
+        "item" : "5",
+        "count" : "63"
+      }, {
+        "item" : "264",
+        "count" : "63"
+      }, {
+        "item" : "268",
+        "count" : "58"
+      }, {
+        "item" : "159",
+        "count" : "58"
+      }, {
+        "item" : "204",
+        "count" : "54"
+      }, {
+        "item" : "72",
+        "count" : "54"
+      } ],
+      "smallest" : "0",
+      "count" : "60060",
+      "cardinality" : "4417"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357051,
+    "name" : "new_death",
+    "dataTypeName" : "number",
+    "description" : "Number of new deaths",
+    "fieldName" : "new_death",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526418,
+    "cachedContents" : {
+      "non_null" : "60060",
+      "largest" : "1178.0",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0.0",
+        "count" : "23544"
+      }, {
+        "item" : "1.0",
+        "count" : "3258"
+      }, {
+        "item" : "2.0",
+        "count" : "2486"
+      }, {
+        "item" : "3.0",
+        "count" : "2069"
+      }, {
+        "item" : "4.0",
+        "count" : "1724"
+      }, {
+        "item" : "5.0",
+        "count" : "1532"
+      }, {
+        "item" : "6.0",
+        "count" : "1393"
+      }, {
+        "item" : "7.0",
+        "count" : "1251"
+      }, {
+        "item" : "8.0",
+        "count" : "1157"
+      }, {
+        "item" : "9.0",
+        "count" : "1089"
+      }, {
+        "item" : "10.0",
+        "count" : "1044"
+      }, {
+        "item" : "11.0",
+        "count" : "939"
+      }, {
+        "item" : "12.0",
+        "count" : "886"
+      }, {
+        "item" : "13.0",
+        "count" : "770"
+      }, {
+        "item" : "14.0",
+        "count" : "712"
+      }, {
+        "item" : "15.0",
+        "count" : "647"
+      }, {
+        "item" : "16.0",
+        "count" : "589"
+      }, {
+        "item" : "17.0",
+        "count" : "579"
+      }, {
+        "item" : "20.0",
+        "count" : "518"
+      }, {
+        "item" : "19.0",
+        "count" : "508"
+      } ],
+      "smallest" : "-352.0",
+      "count" : "60060",
+      "cardinality" : "506"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357052,
+    "name" : "pnew_death",
+    "dataTypeName" : "number",
+    "description" : "Number of new probable deaths",
+    "fieldName" : "pnew_death",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 105526411,
+    "cachedContents" : {
+      "non_null" : "56566",
+      "largest" : "2919",
+      "null" : "3494",
+      "top" : [ {
+        "item" : "0",
+        "count" : "40905"
+      }, {
+        "item" : "1",
+        "count" : "3764"
+      }, {
+        "item" : "2",
+        "count" : "2198"
+      }, {
+        "item" : "3",
+        "count" : "1525"
+      }, {
+        "item" : "4",
+        "count" : "1065"
+      }, {
+        "item" : "5",
+        "count" : "848"
+      }, {
+        "item" : "6",
+        "count" : "631"
+      }, {
+        "item" : "7",
+        "count" : "500"
+      }, {
+        "item" : "-1",
+        "count" : "499"
+      }, {
+        "item" : "8",
+        "count" : "422"
+      }, {
+        "item" : "9",
+        "count" : "335"
+      }, {
+        "item" : "10",
+        "count" : "317"
+      }, {
+        "item" : "11",
+        "count" : "252"
+      }, {
+        "item" : "12",
+        "count" : "220"
+      }, {
+        "item" : "-2",
+        "count" : "184"
+      }, {
+        "item" : "15",
+        "count" : "182"
+      }, {
+        "item" : "13",
+        "count" : "178"
+      }, {
+        "item" : "14",
+        "count" : "172"
+      }, {
+        "item" : "16",
+        "count" : "153"
+      }, {
+        "item" : "18",
+        "count" : "120"
+      } ],
+      "smallest" : "-2594",
+      "count" : "60060",
+      "cardinality" : "324"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357053,
+    "name" : "created_at",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date and time record was created",
+    "fieldName" : "created_at",
+    "position" : 13,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 105526413,
+    "cachedContents" : {
+      "non_null" : "60060",
+      "largest" : "2022-10-19T13:15:24.690",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2020-03-26T16:22:39.452",
+        "count" : "2756"
+      }, {
+        "item" : "2020-05-25T15:38:40.000",
+        "count" : "140"
+      }, {
+        "item" : "2021-06-18T13:48:26.536",
+        "count" : "60"
+      }, {
+        "item" : "2022-10-19T13:15:24.690",
+        "count" : "59"
+      }, {
+        "item" : "2022-10-18T13:16:07.205",
+        "count" : "57"
+      }, {
+        "item" : "2020-03-28T16:22:39.452",
+        "count" : "56"
+      }, {
+        "item" : "2022-10-17T13:39:58.693",
+        "count" : "56"
+      }, {
+        "item" : "2020-04-03T16:22:39.452",
+        "count" : "56"
+      }, {
+        "item" : "2020-04-07T16:22:39.452",
+        "count" : "56"
+      }, {
+        "item" : "2022-10-16T13:16:00.343",
+        "count" : "55"
+      }, {
+        "item" : "2022-10-14T13:18:04.527",
+        "count" : "55"
+      }, {
+        "item" : "2022-10-15T13:14:59.713",
+        "count" : "55"
+      }, {
+        "item" : "2022-10-13T13:16:52.241",
+        "count" : "54"
+      }, {
+        "item" : "2022-10-08T13:19:15.549",
+        "count" : "53"
+      }, {
+        "item" : "2022-09-30T14:13:20.678",
+        "count" : "53"
+      }, {
+        "item" : "2022-09-29T13:17:05.726",
+        "count" : "53"
+      }, {
+        "item" : "2022-10-06T13:30:56.558",
+        "count" : "53"
+      }, {
+        "item" : "2022-10-05T13:16:55.794",
+        "count" : "53"
+      }, {
+        "item" : "2022-10-04T13:14:25.708",
+        "count" : "53"
+      }, {
+        "item" : "2022-10-02T13:13:27.565",
+        "count" : "53"
+      } ],
+      "smallest" : "2020-01-22T00:00:00.000",
+      "count" : "60060",
+      "cardinality" : "2227"
+    },
+    "format" : {
+      "view" : "date_time"
+    }
+  }, {
+    "id" : 481357054,
+    "name" : "consent_cases",
+    "dataTypeName" : "text",
+    "description" : "If Agree, then confirmed and probable cases are included. If Not Agree, then only total cases are included.",
+    "fieldName" : "consent_cases",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 105526412,
+    "cachedContents" : {
+      "non_null" : "56051",
+      "largest" : "Not agree",
+      "null" : "4009",
+      "top" : [ {
+        "item" : "Agree",
+        "count" : "36003"
+      }, {
+        "item" : "Not agree",
+        "count" : "14042"
+      }, {
+        "item" : "N/A",
+        "count" : "6006"
+      } ],
+      "smallest" : "Agree",
+      "count" : "60060",
+      "cardinality" : "3"
+    },
+    "format" : { }
+  }, {
+    "id" : 481357055,
+    "name" : "consent_deaths",
+    "dataTypeName" : "text",
+    "description" : "If Agree, then confirmed and probable deaths are included. If Not Agree, then only total deaths are included.",
+    "fieldName" : "consent_deaths",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 105526414,
+    "cachedContents" : {
+      "non_null" : "55055",
+      "largest" : "Not agree",
+      "null" : "5005",
+      "top" : [ {
+        "item" : "Agree",
+        "count" : "35117"
+      }, {
+        "item" : "Not agree",
+        "count" : "15934"
+      }, {
+        "item" : "N/A",
+        "count" : "4004"
+      } ],
+      "smallest" : "Agree",
+      "count" : "60060",
+      "cardinality" : "3"
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "Public Domain U.S. Government",
+    "termsLink" : "https://www.usa.gov/government-works"
+  },
+  "metadata" : {
+    "custom_fields" : {
+      "Data Quality" : {
+        "Geospatial Resolution" : "State/Territory",
+        "Footnotes" : "This archived aggregate dataset is structured to include daily numbers of confirmed and probable case and deaths retrieved by CDC from states and territories over time. Because these provisional counts are subject to change, including updates to data reported previously, adjustments can occur. These adjustments can result in fewer total numbers of cases and deaths compared with the previous data, which means that new numbers of cases or deaths can include negative values that reflect such adjustments.",
+        "Suggested Citation" : "Centers for Disease Control and Prevention, COVID-19 Response. United States COVID-19 Cases and Deaths by State over Time - ARCHIVED (version date: October 19, 2022)"
+      },
+      "Common Core" : {
+        "Contact Email" : "eocevent394@cdc.gov",
+        "Contact Name" : "Surveillance Review and Response Group",
+        "Issued" : "2020-06-11",
+        "Update Frequency" : "No longer updated (dataset archived)",
+        "Temporal Applicability" : "2020-01-21/2022-10-19",
+        "Program Code" : "009:020",
+        "Geographic Coverage" : "US",
+        "Publisher" : "CDC",
+        "Bureau Code" : "009:20"
+      }
+    },
+    "rowLabel" : "Day for a Jurisdiction",
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "aa26-iwd8",
+    "displayName" : "Brian Lee",
+    "profileImageUrlLarge" : "/api/users/aa26-iwd8/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/aa26-iwd8/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/aa26-iwd8/profile_images/TINY",
+    "screenName" : "Brian Lee",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "aa26-iwd8",
+    "displayName" : "Brian Lee",
+    "profileImageUrlLarge" : "/api/users/aa26-iwd8/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/aa26-iwd8/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/aa26-iwd8/profile_images/TINY",
+    "screenName" : "Brian Lee",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "covid-19", "aggregate", "death", "cases", "coronavirus" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}
